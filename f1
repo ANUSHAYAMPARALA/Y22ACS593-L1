@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is line1 in f1
 This is line2 in f2
 This is line3 in f3
+=======
+This is line1 in fb
+This is line2 
+This is line3
+>>>>>>> feature-branch
